@@ -20,6 +20,12 @@ Get the latest zip from the [**Releases**](../../releases/latest) page.
 The app is not code-signed. If Windows SmartScreen warns you, click
 *More info > Run anyway*.
 
+## Verification
+
+`DeltaTSynth-1.0-Windows.zip` was scanned on VirusTotal on 2026-11-07: 0/66 detections ([report](https://www.virustotal.com/gui/file/642044f05b579456b92c899f17ede2916b4266f075829e9db077d40d19c81f3b)).
+SHA-256: `642044f05b579456b92c899f17ede2916b4266f075829e9db077d40d19c81f3b`.
+The app is not code-signed, so SmartScreen may still show a warning.
+
 ## Features
 
 - Reese engine: 3 detuned saws, clean sine sub, legato/glide, ADSR.
@@ -50,3 +56,5 @@ reescanea los plugins en FL Studio. Si SmartScreen avisa, pulsa
 
 **Licencia:** uso gratuito, también comercial, sin regalías. Prohibido
 redistribuirlo o hacerle ingeniería inversa. Ver [LICENSE.txt](LICENSE.txt).
+
+**Verificación:** `DeltaTSynth-1.0-Windows.zip` fue analizado en VirusTotal el 2026-11-07: 0/66 detecciones ([informe](https://www.virustotal.com/gui/file/642044f05b579456b92c899f17ede2916b4266f075829e9db077d40d19c81f3b)). SHA-256: `642044f05b579456b92c899f17ede2916b4266f075829e9db077d40d19c81f3b`. El programa no está firmado digitalmente, por lo que SmartScreen puede seguir mostrando un aviso.
